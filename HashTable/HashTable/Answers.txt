@@ -1,0 +1,19 @@
+1) Consider the results of the ShowTupleTypeMemory and ShowHashtableMemory methods. Focus on the Allocated 
+    column only, and explain why the memory usage differs between the two approaches.
+    
+[Answer]
+
+
+
+
+
+2) Consider the results of the SearchTupleType and SearchHashTable methods. Look at the Mean column only, 
+    and explain both the performance differences you observe and how the two approaches are fundamentally different 
+    in the way they search for values.
+
+[Answer]
+
+
+
+
+    
